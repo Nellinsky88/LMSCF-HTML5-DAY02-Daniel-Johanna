@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="uft-8">
+	<title>Itermediate Exercise HTML5</title>
+</head>
+<body>
+
+	<header>
+		<h1>Bali</h1>
+	</header>
+
+	<nav>
+		<img src="DSC_0122.jpg" alt="Nusa Penida" width="420" height="300">
+	</nav>
+
+	<aside>
+	</aside>
+
+	<aside>
+	</aside>
+
+	<footer>
+	</footer>
+
+
+
+</body>
+</html>
